@@ -65,6 +65,38 @@ In summary, the "Finance Tracker" project helps individuals with the tools to ac
 Prof. Rahul Patil, Department of Computer Engineering (2023-2024)
 
 ---
+## ER Diagram
+![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/d2c553cd-bc3c-4cdb-bd5d-e80521b79eba)
 
+---
+## Graphical User Interface (GUI)
+### Login Page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/d502e867-1827-4f48-9c45-e9f2267678b9)
+
+### Signup Page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/e25c1189-50cf-401a-afc5-e85f747e19a5)
+
+### Landing Page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/975fe028-b9f7-4b32-9d84-559ecd904b1c)
+
+### Home Page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/4659970a-d5fd-4497-93cc-5db12cffd0f2)
+
+### Add-transaction page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/ff0679f0-166f-45fe-ac58-7b29e0bf162d)
+
+### Display-transaction Page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/107af95e-57ee-4aa6-b7b6-3ca750eb0ee6)
+
+### Update-search page:
+![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/be9c3480-649c-4984-8a5b-765c5c88cce7)
+
+### Update-transaction Page:
+![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/f933da28-9040-493a-a525-32ece87a5f63)
+ 
+### Delete-transaction Page:
+ ![image](https://github.com/Mandipbhattarai/Finance-Tracker/assets/97532160/b62e00b0-eb01-45cb-8126-bb2054b10f1d)
+
+---
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
