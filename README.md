@@ -1,6 +1,6 @@
 # Finance Tracker
 
-This project is a personal finance management application developed as a part of the academic curriculum at Pimpri Chinchwad College of Engineering. It provides users with a user-friendly interface to track and manage their financial transactions and expenses.
+This project is a personal finance management application developed as a part of the academic curriculum. It provides users with a user-friendly interface to track and manage their financial transactions and expenses.
 
 ## Features
 
