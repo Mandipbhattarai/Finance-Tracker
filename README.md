@@ -100,3 +100,11 @@ Prof. Rahul Patil, Department of Computer Engineering (2023-2024)
 ---
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+If you have any questions or need further information about the "Finance Tracker" project, please feel free to contact Mandip Bhattarai on LinkedIn:
+
+- **[Mandip Bhattarai]([https://www.linkedin.com/in/mandip-bhattarai/](https://www.linkedin.com/in/mandip-bhattarai/))**
+
+Mandip is happy to assist you!
+
