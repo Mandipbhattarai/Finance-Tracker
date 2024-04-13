@@ -25,11 +25,6 @@ This project is a personal finance management application developed as a part of
 - Development Environment: Java NetBeans 8.2
 - Database: MySQL 5.7
 
-## Team
-- Mandip Bhattarai (122B1B028)
-- Atharv Bhore (122B1B032)
-- Nishant Bhakar (122B1B025)
-
 ## Project Supervisor
 Prof. Rahul Patil, Department of Computer Engineering (2023-2024)
 
