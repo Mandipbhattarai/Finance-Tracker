@@ -1,0 +1,19 @@
+CREATE TABLE users (
+    id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    username VARCHAR2(255) NOT NULL,
+    password VARCHAR2(255) NOT NULL,
+    email VARCHAR2(255) NOT NULL
+);
+
+
+
+CREATE TABLE transactions (
+    tid NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    t_name VARCHAR2(255),
+    t_type VARCHAR2(255),
+    t_category VARCHAR2(255),
+    t_amount FLOAT,
+    customer_id NUMBER,
+    transaction_date DATE,
+    FOREIGN KEY (customer_id) REFERENCES users(id)
+);
